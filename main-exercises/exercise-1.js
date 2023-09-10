@@ -47,7 +47,7 @@ console.groupEnd();
 */
 
 //this is grabbing the name and logging the names, the user names are defined below
-console.groupCollapsed('Part 4');
+console.groupCollapsed('Main Exercise 1');
 
 function User(name) {
     this.name = name;

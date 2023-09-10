@@ -27,6 +27,8 @@ Other kinds of programming involve functional (reduce in arrays, etc.), logic, e
 
 **JS is NOT A TRADITIONAL OOP language**
 
+Bonus Exercise reference video: https://youtu.be/GEfh_B_JAl0?si=e7_v_z0_XiB87Z29
+
 Object Oriented Programming 4 main ideas
 
 1. Inheritance
@@ -35,7 +37,7 @@ When a class derives from another class. The child class will inherit all the pu
 2. Encapsulation
 In object-oriented programming (OOP), encapsulation is the practice of bundling related data into a structured unit, along with the methods used to work with that data. Most OOP languages implement encapsulation primarily through classes and the objects instantiated through those classes.
 
-3. Abstraction (briefly described)
+3. Abstraction
 Abstraction is the process of hiding the internal details of an application from the outer world. Abstraction is used to describe things in simple terms. It's used to create a boundary between the application and the client programs.
 
 4. Polymorphism
@@ -52,3 +54,7 @@ Polymorphism is a feature of object-oriented programming languages that allows a
 - Classes are technically new, as of 2017
 - constructors can be used as a function (method in a class). But can use it as any other function. No let/const don't need to worry about it
 - you can add a custom method to a method (speak phrase --> to each player/constructor)
+- there are MANY ways to put 
+
+## Summary
+Class, Properties and Syntax versus the new function (keyword) and the class methods as well as how prototypes work
